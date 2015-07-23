@@ -10,3 +10,4 @@ Slide, Resources for Meetup, Workshop
 | 3 | meetup | https://github.com/js-vn/meetup
 | 4 | resources | https://github.com/js-vn/awesome-resources
 | 5 | jobs | https://github.com/js-vn/jobs
+| 6 | workshop-tracker | https://github.com/js-vn/workshop-tracker
